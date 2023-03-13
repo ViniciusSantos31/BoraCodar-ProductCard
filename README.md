@@ -7,8 +7,9 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Aprendizado">Aprendizado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -32,6 +33,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - TypeScript
 - Git e Github
 - Figma
+
+## 📚 Aprendizado
+
+Desenvolvendo esse desafio aprendi a trabalhar com modelos 3D interativos utilizando embed e Three.js.
 
 ## 🔖 Layout
 
